@@ -1,0 +1,7 @@
+.DS_Store
+bin/*
+ssh/*
+vim/backups/*
+vim/swaps/*
+vim/undo/*
+!*/.gitkeep
